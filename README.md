@@ -1,2 +1,0 @@
-# JohnyProject
-Created with CodeSandbox
