@@ -1,0 +1,8 @@
+.landing-bg {
+  background: url("https://images.unsplash.com/photo-1556559322-b5071efadc88?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1949&q=80");
+  background-size: cover;
+  padding: 10%;
+}
+.white-bg {
+  background: #ffffff;
+}

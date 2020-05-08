@@ -1,3 +1,4 @@
+/* Spacing */
 .all-padding-1 {
   padding: 1rem;
 }
@@ -8,5 +9,12 @@
   margin-right: 0.5rem;
 }
 .margin-l {
+  margin-left: 0.5rem;
+}
+
+.margin-b {
+  margin-right: 0.5rem;
+}
+.margin-t {
   margin-left: 0.5rem;
 }
